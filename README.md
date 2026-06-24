@@ -29,7 +29,7 @@ If I'm not stressing out over maths or C++ algorithms, I'm probably napping, gam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-## Looking forward to learning
+## Currently learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
